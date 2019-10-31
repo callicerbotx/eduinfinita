@@ -35,8 +35,8 @@
       <a class="nav-item nav-link" href="#evaluacionInfinita">Probar la Evaluaci&oacute;n</a>
     
       <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">sistema Educaci&oacute;n Infinita</a>
-      <a class="nav-item nav-link" href="./index.php #estudiantes">Iniciar Sesion - estudiantes</a>
-      <a class="nav-item nav-link" href="./index.php #profesores">Iniciar Sesion - Panel Profesor</a>
+      <a class="nav-item nav-link" href="./index.php#estudiantes">Iniciar Sesion - estudiantes</a>
+      <a class="nav-item nav-link" href="./index.php#profesores">Iniciar Sesion - Panel Profesor</a>
     
     </div>
   </div>
